@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xx-CLAW-xX. Currently doing B.E - I.T. - 3rd year from Panjab University.
+- 👋 Hi, I’m Sumit Aggarwal Currently doing B.E - I.T. - 3rd year from Panjab University.
 - 👀 I’m interested in App development (Both Andriod and Ios).
 - 🌱 I’m currently learning FLUTTER for App Development.
 - 📫 My E-mail id - sumitaggarwal12022002@gmail.com
