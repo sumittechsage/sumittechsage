@@ -8,7 +8,7 @@
 
 💻 I'm well-versed in C++, Dart, and proficient in managing databases like MySQL and Firebase.
 
-📱 Some of my creations with FLUTTER include a BMI calculator, Tic Tac Toe game, and a Xylophone music app.
+📱 Some of my creations with FLUTTER include a BMI calculator, Tic Tac Toe game, Quiz, Destini and a Xylophone music app.
 
 🍔 I've also tackled a project that optimized restaurant operations using C++ and MySQL.
 
