@@ -8,7 +8,7 @@ I'm a passionate backend developer with experience in building robust and scalab
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on [InnoTune](https://github.com/sumittechsage/InnoTune)
+- 🔭 I’m currently working at [Innow8 Apps](https://innow8apps.com/)
 - 🌱 I’m currently learning **GraphQL, FastAPI, Flask, Docker**
 - 💬 Ask me about **Django, Rest**
 - 📫 How to reach me: [sumitaggarwal12022002@gmail.com](mailto:sumitaggarwal12022002@gmail.com)
