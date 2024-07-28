@@ -50,8 +50,8 @@ I'm a passionate backend developer with experience in building robust and scalab
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumittechsage&show_icons=true&theme=radical" alt="my github stats" width="48%" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumittechsage&theme=radical" alt="my commit streak" width="48%" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=sumittechsage&show_icons=true&theme=radical" alt="my github stats" width="48%" />  -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumittechsage&theme=radical" alt="my commit streak" width="48%" /> -->
 </p>
 
 [![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumittechsage&theme=radical)](https://github.com/sumittechsage/github-readme-activity-graph)
